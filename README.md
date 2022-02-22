@@ -58,6 +58,15 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/ikWzeNQ.gif">
+ 
+<h2 href='https://github.com/rahul-jha98/github-stats-transparent' align="center">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 📊</h2>
+ 
+![Stats Overview](https://raw.githubusercontent.com/xXDeathAbyssXx/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/xXDeathAbyssXx/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 </div>
 <hr>
 </div>

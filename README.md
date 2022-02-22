@@ -27,7 +27,7 @@
 <div>
 <br>
 <br>
-<h2 align="left">                       📚 𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒 📚</h2>
+<h2 align="left">                    📚 𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒 📚</h2>
 <br>
 <p>
 <img src="https://2dtalk.files.wordpress.com/2020/09/kyaru-1.gif" align="right" height ="250px">

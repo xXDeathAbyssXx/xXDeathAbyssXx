@@ -44,7 +44,7 @@
 Hello! My name is Obed and I enjoy creating things that live on the internet. My interest in NodeJS development started back in 2016 when I wanted to start making bots for different platforms, and keep moving forward in the world of programming. So far I have started working with Troxx Inc and I will stay, since it is the best service for bots that grows more every day, giving satisfaction to top customers.
 </p>
 <br>
-<h2 align="left">                                📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒 📞</h2>
+<h2 align="left">                           📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒 📞</h2>
 <br>
 <img src="https://c.tenor.com/cIwUAVeI88QAAAAC/princess-connect-re-dive-karyl.gif" align="right" width="373.5px" height="208.5px">
 <br>

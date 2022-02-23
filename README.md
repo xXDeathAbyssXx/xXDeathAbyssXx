@@ -26,7 +26,6 @@
 </div>
 <div>
 <br>
-<br>
 <h2 align="left">                    📚 𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒 📚</h2>
 <br>
 <p>

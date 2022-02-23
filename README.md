@@ -11,7 +11,7 @@
 <li>
 <b>Name:</b> <code>Obed</code></li>
 <li>
-<b>Loves:</b> <code>you! ice cream, music and coding</code>
+<b>Loves:</b> <code>you! ice cream, music and code</code>
 </li>
 <li>
 <b>Hobbys:</b> <code>Bots Development/Web Development/Backend Development</code>

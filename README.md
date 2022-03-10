@@ -6,11 +6,6 @@
 </div>
 <br>
 <div>
-<div align="center">
-<img src="https://badges.deathabyss.repl.co/current">
-<img src="https://badges.deathabyss.repl.co/coding">
-<img src="https://badges.deathabyss.repl.co/playing">
-</div>
 <h2 align="center"> ✨ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ✨ </h2><br>
 <img src="https://i.imgur.com/B2xcm3E.gif" align="right">
 <li>

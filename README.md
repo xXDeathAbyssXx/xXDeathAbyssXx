@@ -54,7 +54,7 @@ Hello! My name is Obed and I enjoy creating things that live on the internet. My
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitch.tv/death_abyss" target="_blank"><img src="https://img.shields.io/badge/death_abyss%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p><p align="center"><a href="discordapp.com/users/741818073765511169" target="_blank"><img src="https://img.shields.io/badge/Obed%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/death_abyss" target="_blank"><img src="https://img.shields.io/badge/death_abyss%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p><p align="center"><a target="_blank" href="discordapp.com/users/741818073765511169"><img src="https://img.shields.io/badge/Obed%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>

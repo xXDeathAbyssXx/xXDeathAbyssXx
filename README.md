@@ -14,6 +14,9 @@
 <li>
 <b>Name:</b> <code>Obed</code></li>
 <li>
+<li>
+<b>Best Friend:</b> <code><a href="discordapp.com/users/902348578491">Tima <3</a></code></li> <img src="https://i.imgur.com/6hFc8Kh.gif" height="40vh">
+<li>
 <b>Loves:</b> <code>you! ice cream, music and code</code>
 </li>
 <li>

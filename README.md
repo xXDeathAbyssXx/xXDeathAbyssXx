@@ -7,13 +7,13 @@
 <br>
 <div>
 <div align="center">
-<img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=30px&bg=2e3745&idleMessage=Probably%20doing%20something%20else...">
+<a href="https://discord.com/users/741818073765511169"><img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=30px&bg=2e3745&idleMessage=Probably%20doing%20something%20else..."></a>
 </div>
 <h2 align="center"> ✨ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ✨ </h2><br>
 <img src="https://i.imgur.com/B2xcm3E.gif" align="right">
 <li>
 <b>Name:</b> <code>Obed</code></li>
-<li><b>Best Friend:</b> <code><a href="discordapp.com/users/902348578491">Tima <3</a></code>&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/6hFc8Kh.gif" height="35vh">
+<li><b>Best Friend:</b> <code><a href="https://discordapp.com/users/902348578491">Tima <3</a></code>&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/6hFc8Kh.gif" height="35vh">
 </li> 
 <li>
 <b>Loves:</b> <code>you! ice cream, music and code</code>

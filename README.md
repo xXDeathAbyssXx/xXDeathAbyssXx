@@ -7,9 +7,7 @@
 <br>
 <div>
 <div align="center">
-<img src="https://badges.deathabyss.repl.co/current">
-<img src="https://badges.deathabyss.repl.co/coding">
-<img src="https://badges.deathabyss.repl.co/playing">
+<img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=0px">
 </div>
 <h2 align="center"> ✨ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ✨ </h2><br>
 <img src="https://i.imgur.com/B2xcm3E.gif" align="right">

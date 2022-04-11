@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/B2xcm3E.gif" align="right">
 <li>
 <b>Name:</b> <code>Obed</code></li>
-<li><b>Best Friend:</b> <code><a href="https://discordapp.com/users/902348578491">Tima <3</a></code>
+<li><b>Best Friend:</b> <code><a href="https://discordapp.com/users/758730890322116609">Tima <3</a></code>
 </li> 
 <li>
 <b>Loves:</b> <code>you! ice cream, music and code</code>

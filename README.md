@@ -7,7 +7,7 @@
 <br>
 <div>
 <div align="center">
-<a href="https://discord.com/users/741818073765511169"><img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=25px&bg=343942&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.com/users/741818073765511169"><img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=25px&bg=343942&idleMessage=Probably%20doing%20something%20else...&hideDiscrim=true"></a>
 </div>
 <h2 align="center"> ✨ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ✨ </h2><br>
 <img src="https://i.imgur.com/B49Z76l.png" align="right" height="250px">

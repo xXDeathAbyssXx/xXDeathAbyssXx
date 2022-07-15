@@ -65,6 +65,8 @@ most used s-s-sociaw things >~< xoxox</p>
  
 <h2 href='https://github.com/rahul-jha98/github-stats-transparent' align="center">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 📊</h2>
  
+![Profile Views](https://komarev.com/ghpvc/?username=xXDeathAbyssXx&style=flat&color=blueviolet) 
+ 
 ![Stats Overview](https://raw.githubusercontent.com/xXDeathAbyssXx/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/xXDeathAbyssXx/github-stats-transparent/output/generated/languages.svg)
 

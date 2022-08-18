@@ -41,7 +41,7 @@
 <br><br><br>
 </div>
 <div>
-<br>
+<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=📚%20𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒%20📚&height=150&fontSize=25&&fontAlign=29"/>
@@ -80,10 +80,10 @@ most used s-s-sociaw things >~< xoxox</p>
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=🍦%20𝒯𝒽𝒶𝓃𝓀𝓈%20𝒻𝑜𝓇%20𝓇𝑒𝒶𝒹𝒾𝓃𝑔!%20🍦&height=150&fontSize=25&&fontAlign=50"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
-<br><br>
+<br><br><br>
 <div align="center">
 <img src="https://i.imgur.com/ikWzeNQ.gif">
-<br>
+<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=📊%20𝒢𝒾𝓉𝒽𝓊𝒷%20𝒮𝓉𝒶𝓉𝓈%20📊&height=150&fontSize=25&&fontAlign=50"/>

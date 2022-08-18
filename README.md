@@ -2,7 +2,7 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f00ff&height=180&section=header&"/> 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=(っ◔◡◔)っ%20💖%20𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝒯𝑜%20𝑀𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒%20💖&height=150&fontSize=28&fontAlign=40&fontAlignY=50"/> 
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=(っ◔◡◔)っ%20💖%20𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝒯𝑜%20𝑀𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒%20💖&height=150&fontSize=28&fontAlign=50&fontAlignY=50"/> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/> 
 <br><br><br>
 <div align="center">
@@ -17,7 +17,7 @@
 <br><br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=✨%20𝒜𝒷𝑜𝓊𝓉%20𝑀𝑒%20✨&height=150&fontSize=25&&fontAlign=40"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=✨%20𝒜𝒷𝑜𝓊𝓉%20𝑀𝑒%20✨&height=150&fontSize=25&&fontAlign=50"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
 <br><br><br><br>
 <img src="https://i.imgur.com/B49Z76l.png" align="right" height="250px">
@@ -78,7 +78,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=🍦%20𝒯𝒽𝒶𝓃𝓀𝓈%20𝒻𝑜𝓇%20𝓇𝑒𝒶𝒹𝒾𝓃𝑔!%20🍦&height=150&fontSize=25&&fontAlign=40"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=🍦%20𝒯𝒽𝒶𝓃𝓀𝓈%20𝒻𝑜𝓇%20𝓇𝑒𝒶𝒹𝒾𝓃𝑔!%20🍦&height=150&fontSize=25&&fontAlign=50"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
 <br><br>
 <div align="center">

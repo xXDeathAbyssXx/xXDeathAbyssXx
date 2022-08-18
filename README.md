@@ -1,16 +1,27 @@
 <body>
-<h1 align="center">(っ◔◡◔)っ 💖 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝒯𝑜 𝑀𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 💖</h1>
-<br>
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f00ff&height=180&section=header&"/> 
+</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=(っ◔◡◔)っ%20💖%20𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝒯𝑜%20𝑀𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒%20💖&height=150&fontSize=32&fontAlign=60&fontAlignY=50"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/> 
+<br><br><br>
 <div align="center">
 <img src="https://i.imgur.com/Pv8nXhV.gif">
 </div>
 <br>
 <div>
+<br><br>
 <div align="center">
-<a href="https://discord.com/users/741818073765511169"><img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=25px&bg=343942&idleMessage=Probably%20doing%20something%20else...&hideDiscrim=true"></a>
+<a href="https://discord.com/users/741818073765511169"><img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=25px&bg=6600cc&idleMessage=Probably%20doing%20something%20else...&hideDiscrim=true"></a>
 </div>
-<h2 align="center"> ✨ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ✨ </h2><br>
+<br><br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=✨%20𝒜𝒷𝑜𝓊𝓉%20𝑀𝑒%20✨&height=150&fontSize=25&&fontAlign=60"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br><br><br>
 <img src="https://i.imgur.com/B49Z76l.png" align="right" height="250px">
+<br><br>
 <li>
 <b>Name:</b> <code>Obed</code></li>
 <li><b>Best Friend:</b> <code><a href="https://discordapp.com/users/758730890322116609">Tima <3</a></code>
@@ -27,12 +38,15 @@
 <li>
 <b>Working:</b> <code>@TroxxBot</code>
 </li>
-<br>
+<br><br><br>
 </div>
 <div>
 <br>
-<h2 align="left">                    📚 𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒 📚</h2>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=📚%20𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒%20📚&height=150&fontSize=25&&fontAlign=29"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br><br><br>
 <p>
 <img src="https://2dtalk.files.wordpress.com/2020/09/kyaru-1.gif" align="right" height="250px">
 </div>
@@ -47,9 +61,12 @@
 <a href="https://discord.js.org/#/" target="_blank"><img align="center" alt="Discord.js" height ="38px" src="https://kp.gallerycdn.vsassets.io/extensions/kp/discord-js-snippets/0.5.5/1607950111561/Microsoft.VisualStudio.Services.Icons.Default?s=60&v=4"></a><br><br>
 Hello! My name is Obed and I enjoy creating things that live on the internet. My interest in NodeJS development started back in 2016 when I wanted to start making bots for different platforms, and keep moving forward in the world of programming. So far I have started working with Troxx Inc and I will stay, since it is the best service for bots that grows more every day, giving satisfaction to top customers.
 </p>
-<br>
-<h2 align="left">                           📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒 📞</h2>
-<br>
+<br><br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=📞%20𝒞𝑜𝓃𝓉𝒶𝒸𝓉%20𝑀𝑒%20📞&height=150&fontSize=25&&fontAlign=29"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br><br><br>
 <img src="https://c.tenor.com/cIwUAVeI88QAAAAC/princess-connect-re-dive-karyl.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Hewe awe some of my <br>
@@ -58,15 +75,23 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center">🍦 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔! 🍦</h2>
-<br>
+<br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=🍦%20𝒯𝒽𝒶𝓃𝓀𝓈%20𝒻𝑜𝓇%20𝓇𝑒𝒶𝒹𝒾𝓃𝑔!%20🍦&height=150&fontSize=25&&fontAlign=60"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br><br>
 <div align="center">
 <img src="https://i.imgur.com/ikWzeNQ.gif">
- 
-<h2 href='https://github.com/rahul-jha98/github-stats-transparent' align="center">📊 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 📊</h2>
-  
+<br><br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7f00ff&text=📊%20𝒢𝒾𝓉𝒽𝓊𝒷%20𝒮𝓉𝒶𝓉𝓈%20📊&height=150&fontSize=25&&fontAlign=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
+<br><br><br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=xXDeathAbyssXx&style=flat&color=blueviolet">
+<br><br>
 </div>
 
 ![Stats Overview](https://raw.githubusercontent.com/xXDeathAbyssXx/github-stats-transparent/output/generated/overview.svg)
@@ -76,7 +101,9 @@ most used s-s-sociaw things >~< xoxox</p>
 
 <br>
 </div>
-<hr>
 </div>
+</div>
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f00ff&height=180&section=footer&animation=twinkling"/> 
 </div>
 </body>

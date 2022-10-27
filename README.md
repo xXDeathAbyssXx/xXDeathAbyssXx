@@ -23,7 +23,7 @@
 <img src="https://i.imgur.com/B49Z76l.png" align="right" height="250px">
 <br><br>
 <li>
-<b>Name:</b> <code>Obed</code></li>
+<b>Name:</b> <code>DeathAbyss</code></li>
 <li><b>BFFS:</b> <code><a href="https://discordapp.com/users/758730890322116609">Tima</a></code>,  <code><a href="https://discordapp.com/users/756166488297308255">Mich</a></code>.
 </li> 
 <li>

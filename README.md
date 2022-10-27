@@ -59,7 +59,7 @@
 <a href="https://nodejs.org" target="_blank"><img align="center" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://tmijs.com" target="_blank"><img align="center" alt="Tmi.js" height ="38px" src="https://avatars.githubusercontent.com/u/17866914?s=60&v=4"></a>&nbsp;
 <a href="https://discord.js.org/#/" target="_blank"><img align="center" alt="Discord.js" height ="38px" src="https://kp.gallerycdn.vsassets.io/extensions/kp/discord-js-snippets/0.5.5/1607950111561/Microsoft.VisualStudio.Services.Icons.Default?s=60&v=4"></a><br><br>
-Hello! My name is Obed and I enjoy creating things that live on the internet. My interest in NodeJS development started back in 2016 when I wanted to start making bots for different platforms, and keep moving forward in the world of programming. So far I have started working with Troxx Inc and I will stay, since it is the best service for bots that grows more every day, giving satisfaction to top customers.
+Hello! My name is DeathAbyss and I enjoy creating things that live on the internet. My interest in NodeJS development started back in 2016 when I wanted to start making bots for different platforms, and keep moving forward in the world of programming. So far I have started working with Troxx Inc and I will stay, since it is the best service for bots that grows more every day, giving satisfaction to top customers.
 </p>
 <br><br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>

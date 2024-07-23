@@ -12,7 +12,7 @@
 <div>
 <br><br>
 <div align="center">
-<a href="https://discord.com/users/741818073765511169"><img src="https://lanyard.cnrad.dev/api/741818073765511169?theme=dark&borderRadius=25px&bg=6600cc&idleMessage=Probably%20doing%20something%20else...&hideDiscrim=true"></a>
+<a href="https://discord.com/users/1149424852986511441"><img src="https://lanyard.cnrad.dev/api/1149424852986511441?theme=dark&borderRadius=25px&bg=6600cc&idleMessage=Probably%20doing%20something%20else...&hideDiscrim=true"></a>
 </div>
 <br><br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=1.5"/>
@@ -71,7 +71,7 @@ Hello! My name is DeathAbyss and I enjoy creating things that live on the intern
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitch.tv/death_abyss" target="_blank"><img src="https://img.shields.io/badge/death_abyss%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p><p align="center"><a href="https://discordapp.com/users/741818073765511169" target="_blank" ><img src="https://img.shields.io/badge/Deathabyss%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/death_abyss" target="_blank"><img src="https://img.shields.io/badge/death_abyss%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p><p align="center"><a href="https://discordapp.com/users/1149424852986511441" target="_blank" ><img src="https://img.shields.io/badge/Deathabyss%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
